@@ -7,7 +7,7 @@ This repository contains the implementation and analysis of computational cognit
 Contains the implementation and analysis of:  
  
 a) Data  
-&emsp;	i) [MNIST](https://gitlab.com/datapythonista/mnist) (converted to be compatible with the Hopfield Network)
+&emsp;	i) [MNIST](https://gitlab.com/datapythonista/mnist) (converted to be compatible with the Hopfield Network)  
 b) Model  
 &emsp;	i) Hopfield network   
 c) Evaluation  
